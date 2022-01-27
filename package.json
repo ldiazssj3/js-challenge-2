@@ -1,0 +1,23 @@
+{
+  "name": "js-challenge-2",
+  "version": "1.0.0",
+  "description": "Write a function that takes in a non-empty string and returns its run-length\r   encoding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-length":"node ./src/run-length.js",
+    "sorted-squared-array":"node ./src/sorted-squared-array.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldiazssj3/js-challenge-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldiazssj3/js-challenge-2/issues"
+  },
+  "homepage": "https://github.com/ldiazssj3/js-challenge-2#readme"
+}
